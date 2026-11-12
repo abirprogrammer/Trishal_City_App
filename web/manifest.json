@@ -1,0 +1,11 @@
+{
+    "name": "Trishal Town App",
+    "short_name": "Trishal",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#165DFC",
+    "theme_color": "#165DFC",
+    "description": "A premium community and local shopping app for Trishal, Bangladesh.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
